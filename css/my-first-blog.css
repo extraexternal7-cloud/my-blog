@@ -1,4 +1,7 @@
 body {
+  <button onclick="toggleDark()" style="position:fixed;top:10px;right:10px;">
+🌙
+</button>
   margin: 0;
   font-family: Arial, sans-serif;
   background: #f5f5f5;
